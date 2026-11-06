@@ -1,0 +1,7 @@
+[project]
+name = "databricks"
+version = "0.0.0"
+
+[dependency-groups]
+dev = ["databricks-connect~=17.3.0"]
+
